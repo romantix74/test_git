@@ -30,6 +30,7 @@ print path.join(PROJECT_ROOT, 'Raduga02', 'app','templates', 'tables', 'Profile.
 print 'tables\Profile.html'
 
 print "###############################################################################################"
+print "###############################################################################################"
 
 args = {}
 args['formEditDir'] = DirectorEditForm()
